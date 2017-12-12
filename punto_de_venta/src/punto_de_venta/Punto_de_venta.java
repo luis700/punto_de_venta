@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package punto_de_venta;
 
+package punto_de_venta;
+import javax.swing.*;
 /**
  *
  * @author luisf
