@@ -16,6 +16,7 @@ public class Punto_de_venta {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null,"hola mundo");
     }
     
 }
