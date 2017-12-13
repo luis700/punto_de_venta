@@ -19,6 +19,7 @@ public class Punto_de_venta {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"hola mundo");
         int sum1;
+        int q;
     }
     
 }
