@@ -9,6 +9,6 @@ package veroo;
  *
  * @author ver0nica
  */
-public class hola {
+public class ejemplo {
     
 }
